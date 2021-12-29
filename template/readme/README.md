@@ -1,7 +1,8 @@
-# <img src="img/sample_logo.png" alt="sample project" width="30" style="vertical-align: middle;"> | PROJECT_NAME - CHANGE_ME #
+# <img src="img/sample.png" alt="sample project" width="30" style="vertical-align: middle;"> | PROJECT_NAME - CHANGE_ME #
 
 This README would normally document whatever steps are necessary to get your application up and running.  
 CHANGE_ME  
+
 
 ## What is this repository for? ##
 
@@ -9,9 +10,6 @@ CHANGE_ME
 
 CHANGE_ME  
 
-### [Learn Markdown](https://www.markdownguide.org/)
-
-CHANGE_ME  
 
 ## How do I get set up? ##
 
@@ -39,6 +37,7 @@ CHANGE_ME
 
 CHANGE_ME  
 
+
 ## Contribution guidelines ##
 
 ### Writing tests
@@ -50,6 +49,9 @@ CHANGE_ME
 CHANGE_ME  
 
 ### Other guidelines
+
+CHANGE_ME
+
 
 ## Who do I talk to? ##
 
