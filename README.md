@@ -8,8 +8,8 @@ This repository is intended to quick store template files to standerize and foll
 
 ### Current template subjects
 
-* git
-* Markdown
+* README.md
+* CHANGELOG.md
 
 ### Version 1.0.1
 

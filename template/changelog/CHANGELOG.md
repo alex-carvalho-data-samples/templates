@@ -1,17 +1,17 @@
-# Changelog
+# changelog
 
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased] CHANGE_ME
+## [unreleased] CHANGE_ME
 
 ### new feature CHANGE_ME
 
 - Added Dutch translation
 
-### Fixed CHANGE_ME
+### fixed CHANGE_ME
 
 - Fixed foldouts in Dutch translation
 
@@ -22,14 +22,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - airflow volume mount paths
 - docker images build paths
 
-### Removed CHANGE_ME
+### removed CHANGE_ME
 
 - Terraform execution control files
 
 
 ## [1.0.0] - 2021-12-20 CHANGE_ME
 
-### Added CHANGE_ME
+### added CHANGE_ME
 
 - Terraform infrastructure with 
   - <img src="img/postgresql.png" alt="PostgreSQL" height="20" style="vertical-align: middle;"> PostgreSQL
