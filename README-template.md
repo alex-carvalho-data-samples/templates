@@ -9,8 +9,6 @@ CHANGE_ME
 
 CHANGE_ME  
 
-### Version CHANGE_ME  [major.minor.patch]
-
 ### [Learn Markdown](https://www.markdownguide.org/)
 
 CHANGE_ME  
