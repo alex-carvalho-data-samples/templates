@@ -9,9 +9,9 @@ This repository is intended to quick store template files to standerize and foll
 
 ### Current template subjects
 
-* README.md
-* CHANGELOG.md
-
+- README.md
+- CHANGELOG.md
+- Terraform project *.MD and folde structure
 
 ## How do I get set up? ##
 
