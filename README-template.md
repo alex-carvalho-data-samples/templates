@@ -1,4 +1,4 @@
-# PROJECT_NAME - CHANGE_ME #
+# <img src="img/sample_logo.png" alt="sample project" width="30" style="vertical-align: middle;"> | PROJECT_NAME - CHANGE_ME #
 
 This README would normally document whatever steps are necessary to get your application up and running.  
 CHANGE_ME  
