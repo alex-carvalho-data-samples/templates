@@ -35,4 +35,4 @@ This repository isn't prepared for contributions so far. In case of interest, pl
 ## Who do I talk to? ##
 
 ### Repo owner
-alex.carvalho.data@gmail.com
+[Alex Carvalho](mailto:alex.carvalho.data@gmail.com)
