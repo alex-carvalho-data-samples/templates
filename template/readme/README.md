@@ -57,7 +57,7 @@ CHANGE_ME
 
 ### Repo owner or admin
 
-CHANGE_ME  
+[Contact Name CHANGE_ME](mailto:change_me@gmail.com)
 
 ### Other community or team contact
 
